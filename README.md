@@ -92,7 +92,7 @@ Global-Seismic-Trends-Analysis
 ## 📊 SQL Analysis
 
 <p align="center">
-<img src="assets/sql_analysis.png" width="100%">
+<img src="assests/sql_analysis.png" width="100%">
 </p>
 
 ---
@@ -100,7 +100,7 @@ Global-Seismic-Trends-Analysis
 ## 💡 Key Insights
 
 <p align="center">
-<img src="assets/key_insights.png" width="100%">
+<img src="assests/key_insights.png" width="100%">
 </p>
 
 ---
@@ -108,7 +108,7 @@ Global-Seismic-Trends-Analysis
 ## ℹ️ About page
 
 <p align="center">
-<img src="assets/about.png" width="100%">
+<img src="assests/about.png" width="100%">
 </p>
 
 ---
