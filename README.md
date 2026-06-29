@@ -7,8 +7,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 # 📌 Project Overview
